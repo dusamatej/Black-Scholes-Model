@@ -7,15 +7,15 @@ This project builds a simple yet powerful Python application that calculates the
 
 The script dynamically:
 
-Fetches the current stock price from Yahoo Finance.
+  Fetches the current stock price from Yahoo Finance.
 
-Calculates the historical volatility of the stock based on recent price movements.
+  Calculates the historical volatility of the stock based on recent price movements.
 
-Retrieves the risk-free interest rate by automatically matching U.S. Treasury bond yields to the user's expected option expiration time.
+  Retrieves the risk-free interest rate by automatically matching U.S. Treasury bond yields to the user's expected option expiration time.
 
-Computes the theoretical call and put prices.
+  Computes the theoretical call and put prices.
 
-Visualizes the call option payoff diagram including the strike price and break-even point.
+
 
 ✅ Designed for educational, analysis, and lightweight financial modeling purposes.
 
